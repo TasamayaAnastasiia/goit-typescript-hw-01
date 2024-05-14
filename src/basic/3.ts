@@ -1,3 +1,3 @@
 let unionType: string | number;
-let value: "enable" | "disable";
-
+type Value =  "enable" | "disable";
+let text: Value;
